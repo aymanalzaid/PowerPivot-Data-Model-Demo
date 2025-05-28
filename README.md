@@ -19,7 +19,7 @@ These files are used to demonstrate how to:
 3.  **Follow the Demonstration:** Refer to the video lecture for a step-by-step guide on using these files to build a PowerPivot Data Model and create insights.
 
 ## Video Lecture
-https://www.youtube.com/TechPodcastWrold
-
+https://youtu.be/TM9JtT5OajM
 ## Contact
 Ayman Alzaid
+
